@@ -14,6 +14,6 @@ After those two commands your get shell uploader at http://target.com/shell.php 
 
 Youtube  : https://www.youtube.com/DigitalHackerOfficial<br/>
 Facebook : https://www.facebook.com/DigitalHackerOfficial<br/>
-Twitter  : https://twitter.com/Shehryar_DH<br/>
+Twitter  : https://twitter.com/SheryarNinjhack<br/>
 Google+  : https://plus.google.com/+DigitalHacker<br/>
 Email    : digitalhacker07@gmail.com
